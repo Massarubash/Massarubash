@@ -48,4 +48,4 @@
 
 . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁. ݁₊ ⊹ 
 
-<img width="400" height="225" alt="Image" src="https://github.com/user-attachments/assets/0c3488c5-6653-4bee-836b-15f7e339fefb" />
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/95188324-122a-4ef8-a962-c9fee4cdc13b" />
