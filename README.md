@@ -1,6 +1,8 @@
 <<p data-importer="text" align="center">👋𝑶𝒑𝒂 𝒃𝒂̃𝒐?<br>=====================<br> (𝑬𝒔𝒕𝒆 𝒑𝒆𝒓𝒇𝒊𝒍 𝒂𝒊𝒏𝒅𝒂 𝒆𝒔𝒕𝒂́ 𝒑𝒂𝒔𝒔𝒂𝒏𝒅𝒐 𝒑𝒐𝒓 𝒄𝒐𝒏𝒇𝒊𝒈𝒖𝒓𝒂𝒄̧𝒐̃𝒆𝒔 𝒑𝒐𝒓 𝒊𝒔𝒔𝒐 𝒐𝒔 𝒃𝒖𝒈𝒔)</p>
 
 <img width="820" height="464" alt="Image" src="https://github.com/user-attachments/assets/0442f1c9-41e2-4af0-9cbc-0120e0a87398" style="display:block; margin:0 auto;" />   
+
+===================================================================================================================================
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="37" />
