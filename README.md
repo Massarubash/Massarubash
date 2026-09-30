@@ -60,6 +60,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=109&section=header&reversal=false&fontSize=73&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=87CEEB"  />
 </div>
 
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/2706c53c-4d6b-49c4-a3a4-6ef9888a9ac2" /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/2706c53c-4d6b-49c4-a3a4-6ef9888a9ac2" /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/2706c53c-4d6b-49c4-a3a4-6ef9888a9ac2" />
 
 <h6 data-importer="text" align="left">⌗ Que tal dar uma olhada no nosso time completo?<br><br>⌗ Eles que são os principais responsáveis por criar e ajudar a Gennis a crescer<br>ainda mais no Brasil! 🇧🇷<br><br>⤷ @mwtheuskkj <br><br>⤷ @jaobom006 <br><br>⤷ @<br><br>⤷ @<br><br>⤷ @</h6>
 
