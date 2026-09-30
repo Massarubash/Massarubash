@@ -58,7 +58,10 @@
 
 . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁. ݁₊ ⊹.. ݁₊ ⊹ . ݁ ⟡ ݁. ݁₊ ⊹
 
-<img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/03b7a598-1cc8-4d1b-9bd3-a373a24d58bf" />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=109&section=header&reversal=false&fontSize=73&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=87CEEB"  />
+</div>
+
 
 <h6 data-importer="text" align="left">⌗ Que tal dar uma olhada no nosso time completo?<br><br>⌗ Eles que são os principais responsáveis por criar e ajudar a Gennis a crescer<br>ainda mais no Brasil! 🇧🇷<br><br>⤷ @mwtheuskkj <br><br>⤷ @jaobom006 <br><br>⤷ @<br><br>⤷ @<br><br>⤷ @</h6>
 
