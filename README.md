@@ -52,6 +52,6 @@
 
 . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁. ݁₊ ⊹.. ݁₊ ⊹ . ݁ ⟡ ݁. ݁₊ ⊹
 
-<h6 data-importer="text" align="left">⌗ Que tal dar uma olhada no nosso time completo?<br><br>⌗ Eles que são os principais responsáveis por criar e ajudar a Gennis a crescer<br>ainda mais no Brasil! 🇧🇷<br><br>⤷ @Jaobom006<br><br>⤷ @<br><br>⤷ @<br><br>⤷ @<br><br>⤷ @</h6>
+<h6 data-importer="text" align="left">⌗ Que tal dar uma olhada no nosso time completo?<br><br>⌗ Eles que são os principais responsáveis por criar e ajudar a Gennis a crescer<br>ainda mais no Brasil! 🇧🇷<br><br>⤷ @mwtheuskkj <br><br>⤷ @jaobom006 <br><br>⤷ @<br><br>⤷ @<br><br>⤷ @</h6>
 
 ###
