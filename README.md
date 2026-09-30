@@ -51,3 +51,7 @@
 <img width="1000" height="300" alt="Image" src="https://github.com/user-attachments/assets/433e86ee-ae6b-49e9-bd18-4d8607a70c5b" />
 
 . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁. ݁₊ ⊹.. ݁₊ ⊹ . ݁ ⟡ ݁. ݁₊ ⊹
+
+<h6 data-importer="text" align="left">⌗ Que tal dar uma olhada no nosso time completo?<br><br>⌗ Eles que são os principais responsáveis por criar e ajudar a Gennis a crescer<br>ainda mais no Brasil! 🇧🇷<br><br>⤷ @Jaobom006<br><br>⤷ @<br><br>⤷ @<br><br>⤷ @<br><br>⤷ @</h6>
+
+###
