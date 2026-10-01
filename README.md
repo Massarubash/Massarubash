@@ -65,4 +65,8 @@
 ======================================================================================================
 <h6 data-importer="text" align="left"> <br><br>⌗ Eles são os principais responsáveis por criar e ajudar a levar a Gennis pra casa de milhões de brasileiros<br> 🇧🇷<br><br>⤷ @mwtheuskkj <br><br>⤷ @jaobom006 <br><br>⤷ @CarlinhosDoPaoComMortadela <br><br>⤷ @<br><br>⤷ @</h6>
 
+<h5 data-importer="text" align="left">Link Oficial do nosso site (Ainda em desenvolvimento) - Prévia disponível: https://gennis-code-stg7.vercel.app/</h5>
+
+###
+
 ======================================================================================================
