@@ -11,34 +11,42 @@
 
 ======================================================================================================
 <div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="52" alt="apache logo"  />
   <img width="37" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="52" alt="debian logo"  />
   <img width="37" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/meteor/DE4F4F" height="52" alt="meteor logo"  />
   <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/blender/F5792A" height="52" alt="blender logo"  />
   <img width="37" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="60" alt="linux logo"  />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="52" alt="ubuntu logo"  />
   <img width="37" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="52" alt="html5 logo"  />
   <img width="37" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="60" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="52" alt="codeigniter logo"  />
   <img width="37" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="60" alt="ubuntu logo"  />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="52" alt="nestjs logo"  />
   <img width="37" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="52" alt="linux logo"  />
   <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="52" alt="javascript logo"  />
   <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="52" alt="postgresql logo"  />
   <img width="37" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="60" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="vscode logo"  />
   <img width="37" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="60" alt="unrealengine logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="52" alt="css logo"  />
   <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="60" alt="nestjs logo"  />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="52" alt="python logo"  />
+  <img width="37" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="52" alt="cplusplus logo"  />
+  <img width="37" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="52" alt="photoshop logo"  />
+  <img width="37" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="52" alt="unrealengine logo"  />
 </div>
+
+###
 ======================================================================================================
 
 ###
