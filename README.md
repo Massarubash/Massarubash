@@ -1,5 +1,9 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6495ED"/>
+
+  <h5 data-importer="text" align="center">' ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖ ⊹ ࣪</h5>
+
+###
   
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 <img width="1280" height="304" alt="Image" src="https://github.com/user-attachments/assets/436fc937-19d3-42fe-a8ed-7e4983f9a9e3" />
