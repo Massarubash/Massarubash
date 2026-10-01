@@ -63,7 +63,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&pause=1000&color=747474&width=435&lines=Nossa+equipe+oficial+do+GennisCode!;Apoie+nossa+equipe+nessa+jornada+%3A%29)](https://git.io/typing-svg)
 
 ======================================================================================================
-<h6 data-importer="text" align="left"> <br><br>⌗ Eles são os principais responsáveis por criar e ajudar a levar a Gennis pra casa de milhões de brasileiros<br> 🇧🇷<br><br>⤷ @mwtheuskkj <br><br>⤷ @jaobom006 <br><br>⤷ @CarlinhosDoPaoComMortadela <br><br>⤷ @<br><br>⤷ @</h6>
+<h6 data-importer="text" align="left"> <br><br>⌗ Os principais responsáveis por criar e ajudar a levar a Gennis pra casa de milhões de brasileiros<br> 🇧🇷<br><br>⤷ @mwtheuskkj <br><br>⤷ @jaobom006 <br><br>⤷ @CarlinhosDoPaoComMortadela <br><br>⤷ @<br><br>⤷ @</h6>
 
 <h5 data-importer="text" align="left">Link Oficial do nosso site (Ainda em desenvolvimento) - Prévia disponível: https://gennis-code-stg7.vercel.app/</h5>
 
