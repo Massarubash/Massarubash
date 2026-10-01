@@ -1,15 +1,4 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6495ED"/>
-
-  <h5 data-importer="text" align="center">' ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖ ⊹ ࣪</h5>
-
-###
-  
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
-<img width="1280" height="304" alt="Image" src="https://github.com/user-attachments/assets/436fc937-19d3-42fe-a8ed-7e4983f9a9e3" />
-
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
-
+<h5 data-importer="text" align="center">' ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖ ⊹ ࣪</h5>
 
 <p data-importer="text" align="center">👋𝑶𝒑𝒂 𝒃𝒂̃𝒐?<br>=====================<br> ᯓ 𝑬 𝒂𝒊́, 𝒃𝒂̃𝒐 𝒇𝒊? 𝒂𝒒𝒖𝒊 𝒆́ 𝒐 𝑮𝒖𝒔, 𝒐𝒖 𝑴𝒂𝒔𝒔𝒂𝒓𝒖, 𝒄𝒐𝒎𝒐 𝒎𝒖𝒊𝒕𝒐𝒔 𝒄𝒐𝒏𝒉𝒆𝒄𝒆𝒎. 𝑺𝒆 𝒗𝒐𝒄𝒆̂ 𝒆𝒔𝒕𝒂́ 𝒂𝒒𝒖𝒊, 𝒒𝒖𝒆 𝒍𝒐𝒖𝒄𝒖𝒓𝒂 𝒆𝒎, 𝒎𝒆 𝒂𝒄𝒉𝒐𝒖 𝒏𝒐 𝒎𝒆𝒊𝒐 𝒅𝒆 𝒕𝒂𝒏𝒕𝒂 𝒈𝒆𝒏𝒕𝒆. 𝑨𝒕𝒖𝒂𝒍𝒎𝒆𝒏𝒕𝒆 𝒆𝒖 𝒔𝒐𝒖 𝒆𝒔𝒕𝒖𝒅𝒂𝒏𝒕𝒆 𝒅𝒆 𝑨𝑫𝑺 𝒄𝒐𝒎 𝒎𝒖𝒊𝒕𝒐 𝒐𝒓𝒈𝒖𝒍𝒉𝒐 𝒆 𝒎𝒖𝒊𝒕𝒐 𝒔𝒖𝒐𝒓. 𝑨𝒕𝒖𝒐 𝒕𝒂𝒎𝒃𝒆́𝒎 𝒄𝒐𝒎𝒐 𝒅𝒆𝒗 𝒇𝒖𝒍𝒍 𝒔𝒕𝒂𝒄𝒌 𝒘𝒆𝒃 𝒆 𝒈𝒂𝒎𝒆 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓. 𝙀́ 𝒏𝒄𝒓𝒊́𝒗𝒆𝒍 𝒂𝒕𝒖𝒂𝒓 𝒏𝒆𝒔𝒔𝒂 𝒂́𝒓𝒆𝒂, 𝒗𝒊𝒄𝒊𝒂𝒏𝒕𝒆, 𝒔𝒐́ 𝒏𝒂̃𝒐 𝒆́ 𝒎𝒂𝒊𝒔 𝒗𝒊𝒄𝒊𝒂𝒏𝒕𝒆 𝒒𝒖𝒆 𝒄𝒂𝒇𝒆́.. 𝒆𝒖 𝑨𝑴𝑶 𝒄𝒂𝒇𝒆́. </p>
 
@@ -64,9 +53,16 @@
 . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁. ݁₊ ⊹.. ݁₊ ⊹ . ݁ ⟡ ݁. ݁₊ ⊹
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=109&section=header&reversal=false&fontSize=73&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=87CEEB"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=106&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
-<h6 data-importer="text" align="left">⌗ Que tal dar uma olhada no nosso time completo?<br><br>⌗ Eles que são os principais responsáveis por criar e ajudar a Gennis a crescer<br>ainda mais no Brasil! 🇧🇷<br><br>⤷ @mwtheuskkj <br><br>⤷ @jaobom006 <br><br>⤷ @<br><br>⤷ @<br><br>⤷ @</h6>
 
-###
+<h6 data-importer="text" align="left">⌗ Já pensou em aprender TI e programação de forma fácil, gratuita e sem sair de casa? A GennisCode nasceu para tornar isso possível, mesmo para quem ainda não sabe por onde começar. A gente sabe que existem milhares de cursos por aí prometendo ensinar tecnologia. Mas, muitas vezes, ensinam você a usar o básico, te passam desinformações no mundo atual da tecnologia e principalmente, te mostram a tecnologia sem ensinar como se proteger dela. E é aí que queremos fazer diferente.<br><br>⌗ Na GennisCode, você aprende programação, tecnologia, cibersegurança e privacidade, enquanto desenvolve conhecimentos que realmente pode colocar em prática da maneira certa. E você não precisa fazer essa jornada sozinho. Queremos construir uma comunidade onde você possa aprender, compartilhar suas conquistas, tirar dúvidas e evoluir junto com outras pessoas.<br><br><br>𝘼𝙥𝙧𝙚𝙣𝙙𝙖, 𝙘𝙤𝙣𝙨𝙩𝙧𝙪𝙖 𝙚 𝙘𝙤𝙢𝙥𝙖𝙧𝙩𝙞𝙡𝙝𝙚. <br>𝙏𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖 𝙚́ 𝙢𝙚𝙡𝙝𝙤𝙧 𝙦𝙪𝙖𝙣𝙙𝙤 𝙚́ 𝙘𝙤𝙢𝙥𝙖𝙧𝙩𝙞𝙡𝙝𝙖𝙙𝙖. :)</h6>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&pause=1000&color=747474&width=435&lines=Nossa+equipe+oficial+do+GennisCode!;Apoie+nossa+equipe+nessa+jornada+%3A%29)](https://git.io/typing-svg)
+
+======================================================================================================
+<h6 data-importer="text" align="left"> <br><br>⌗ Eles são os principais responsáveis por criar e ajudar a levar a Gennis pra casa de milhões de brasileiros<br> 🇧🇷<br><br>⤷ @mwtheuskkj <br><br>⤷ @jaobom006 <br><br>⤷ @<br><br>⤷ @<br><br>⤷ @</h6>
+
+======================================================================================================
