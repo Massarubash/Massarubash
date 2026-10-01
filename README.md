@@ -70,23 +70,27 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&pause=1000&color=740000&width=435&lines=%E2%9F%A1+Siga+nossa+equipe+pelo+Git!+%3A%29+%E2%9F%A1)](https://git.io/typing-svg)
 
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&pause=1000&color=740000&width=435&lines=%E2%9E%9C+%40mwtheuskkj)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&pause=1000&color=740000&width=435&lines=%E2%9E%9C+%40jaobom006)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&pause=1000&color=740000&width=435&lines=%E2%9E%9C+%40CarlinhosDoPaoComMortadela)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&pause=1000&color=740000&width=435&lines=%E2%9E%9C+%40Luucasy)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&pause=1000&color=740000&width=435&lines=%E2%9E%9C+%40midasrei68-dev)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&size=23&pause=1000&color=7E0000&width=435&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&size=23&pause=1000&color=B10000&width=435&lines=Sobre+n%C3%B3s+%CB%99%F0%90%83%B7%CB%99)](https://git.io/typing-svg)
+
+
+<h6 data-importer="text" align="left">Você aí deve estar se perguntando: como um grupo de seis amigos incluindo um japa "falsificado" e outros cinco entusiastas apaixonados por tecnologia resolveram mudar o rumo da educação digital no Brasil?<br><br>A resposta é simples: inconformismo aliado a muita paixão.<br><br>Nós nascemos da vontade genuína de ajudar as pessoas. Cansados de ver o conhecimento em TI trancado a sete chaves por mensalidades abusivas e promessas falsas, decidimos fazer diferente. A Genius Code não é apenas um projeto: é um movimento. Somos a prova de que tecnologia de ponta, educação de qualidade e o sonho de construir uma carreira sólida não devem ser privilégios para poucos.<br><br>Nossa missão é direta e sem pausas: levar educação tecnológica gratuita e acessível para o Brasil inteiro, do zero absoluto até o mercado de trabalho, entregando certificação ao final da jornada. Aqui, qualquer pessoa independentemente de onde veio ou de suas condições pode dar o primeiro passo para transformar o próprio futuro no que mais deseja.<br><br>Venha fazer parte da nossa família! ❤︎<br><br>Quer conhecer um pouquinho mais sobre a gente e nossas propostas? Clique aqui no link da bio e conheça o nosso projeto.<br><br><br><br>GennisCode - 𝘼𝙥𝙧𝙚𝙣𝙙𝙖, 𝙘𝙤𝙣𝙨𝙩𝙧𝙪𝙖 𝙚 𝙘𝙤𝙢𝙥𝙖𝙧𝙩𝙞𝙡𝙝𝙚<br><br>𝙏𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖 𝙚́ 𝙢𝙚𝙡𝙝𝙤𝙧 𝙦𝙪𝙖𝙣𝙙𝙤 𝙚́ 𝙘𝙤𝙢𝙥𝙖𝙧𝙩𝙞𝙡𝙝𝙖𝙙𝙖. :)</h6>
+
+###
+###
+<h5 data-importer="text" align="left"> Projeto ainda em Desenvolvimento :]
+  
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=106&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=591c12"  />
 </div>
 
-
-<h6 data-importer="text" align="left">⌗ Já pensou em aprender TI e programação de forma fácil, gratuita e sem sair de casa? A GennisCode nasceu para tornar isso possível, mesmo para quem ainda não sabe por onde começar. A gente sabe que existem milhares de cursos por aí prometendo ensinar tecnologia. Mas, muitas vezes, ensinam você a usar o básico, te passam desinformações no mundo atual da tecnologia e principalmente, te mostram a tecnologia sem ensinar como se proteger dela. E é aí que queremos fazer diferente.<br><br>⌗ Na GennisCode, você aprende programação, tecnologia, cibersegurança e privacidade, enquanto desenvolve conhecimentos que realmente pode colocar em prática da maneira certa. E você não precisa fazer essa jornada sozinho. Queremos construir uma comunidade onde você possa aprender, compartilhar suas conquistas, tirar dúvidas e evoluir junto com outras pessoas.<br><br><br>𝘼𝙥𝙧𝙚𝙣𝙙𝙖, 𝙘𝙤𝙣𝙨𝙩𝙧𝙪𝙖 𝙚 𝙘𝙤𝙢𝙥𝙖𝙧𝙩𝙞𝙡𝙝𝙚. <br>𝙏𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖 𝙚́ 𝙢𝙚𝙡𝙝𝙤𝙧 𝙦𝙪𝙖𝙣𝙙𝙤 𝙚́ 𝙘𝙤𝙢𝙥𝙖𝙧𝙩𝙞𝙡𝙝𝙖𝙙𝙖. :)</h6>
-
-
-
-<h5 data-importer="text" align="left">Link Oficial do nosso site (Ainda em desenvolvimento) - Prévia disponível: https://gennis-code-stg7.vercel.app/</h5>
 ###
 
-======================================================================================================
