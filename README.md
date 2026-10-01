@@ -60,12 +60,14 @@
 <h6 data-importer="text" align="left">⌗ Já pensou em aprender TI e programação de forma fácil, gratuita e sem sair de casa? A GennisCode nasceu para tornar isso possível, mesmo para quem ainda não sabe por onde começar. A gente sabe que existem milhares de cursos por aí prometendo ensinar tecnologia. Mas, muitas vezes, ensinam você a usar o básico, te passam desinformações no mundo atual da tecnologia e principalmente, te mostram a tecnologia sem ensinar como se proteger dela. E é aí que queremos fazer diferente.<br><br>⌗ Na GennisCode, você aprende programação, tecnologia, cibersegurança e privacidade, enquanto desenvolve conhecimentos que realmente pode colocar em prática da maneira certa. E você não precisa fazer essa jornada sozinho. Queremos construir uma comunidade onde você possa aprender, compartilhar suas conquistas, tirar dúvidas e evoluir junto com outras pessoas.<br><br><br>𝘼𝙥𝙧𝙚𝙣𝙙𝙖, 𝙘𝙤𝙣𝙨𝙩𝙧𝙪𝙖 𝙚 𝙘𝙤𝙢𝙥𝙖𝙧𝙩𝙞𝙡𝙝𝙚. <br>𝙏𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖 𝙚́ 𝙢𝙚𝙡𝙝𝙤𝙧 𝙦𝙪𝙖𝙣𝙙𝙤 𝙚́ 𝙘𝙤𝙢𝙥𝙖𝙧𝙩𝙞𝙡𝙝𝙖𝙙𝙖. :)</h6>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&pause=1000&color=747474&width=435&lines=Siga+os+GurisDaTI+oficial fi!!;Apoie+nossa+equipe+nessa+jornada+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5F5F5F&width=435&lines=Siga+os+membros+oficiais+da+Gennis!;Os+Guris+da+TI)](https://git.io/typing-svg)
 
 ======================================================================================================
 <h6 data-importer="text" align="left"> <br><br>⌗ Os principais responsáveis por criar e ajudar a levar a Gennis pra casa de milhões de brasileiros<br> 🇧🇷<br><br>⤷ @mwtheuskkj <br><br>⤷ @jaobom006 <br><br>⤷ @CarlinhosDoPaoComMortadela <br><br>⤷ @<br><br>⤷ @</h6>
 
 <h5 data-importer="text" align="left">Link Oficial do nosso site (Ainda em desenvolvimento) - Prévia disponível: https://gennis-code-stg7.vercel.app/</h5>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=464646&width=435&lines=Acompanhe+nossa+jornada+meus+fi!+%E2%99%A1)](https://git.io/typing-svg)
 
 ###
 
