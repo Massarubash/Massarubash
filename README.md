@@ -73,10 +73,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&pause=1000&color=740000&width=435&lines=%E2%9E%9C+%40mwtheuskkj)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&pause=1000&color=740000&width=435&lines=%E2%9E%9C+%40jaobom006)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&pause=1000&color=740000&width=435&lines=%E2%9E%9C+%40CarlinhosDoPaoComMortadela)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&pause=1000&color=740000&width=435&lines=%E2%9E%9C+%40Luucasy)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&pause=1000&color=740000&width=435&lines=%E2%9E%9C+%40midasrei68-dev)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B0202&width=435&lines=%E2%AD%A2+%40lucasgracaleandro-arch)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&size=23&pause=1000&color=7E0000&width=435&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Enue&size=23&pause=1000&color=B10000&width=435&lines=Sobre+n%C3%B3s+%CB%99%F0%90%83%B7%CB%99)](https://git.io/typing-svg)
