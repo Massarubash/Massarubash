@@ -24,7 +24,7 @@ Lembre-se: <i>beba água, melhor uma pedrada na cabeça do que no rim</i> 👍
 
 
 <h3 align="center">⟡ Stack ⟡</h3>
-
+<img width="1200" height="24" alt="Image" src="https://github.com/user-attachments/assets/c41bef76-b260-4ddd-8fe2-c71f6241043a" />
 <div align="center">
   <img src="https://cdn.simpleicons.org/apache/D22128" height="48" alt="apache" />
   <img width="22" />
@@ -60,10 +60,10 @@ Lembre-se: <i>beba água, melhor uma pedrada na cabeça do que no rim</i> 👍
   <img width="22" />
   <img src="https://skillicons.dev/icons?i=unreal" height="48" alt="unreal engine" />
 </div>
-
+<img width="1200" height="24" alt="Image" src="https://github.com/user-attachments/assets/c41bef76-b260-4ddd-8fe2-c71f6241043a" />
 <br>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+
 
 <div align="center">
 <picture>
@@ -75,11 +75,6 @@ Lembre-se: <i>beba água, melhor uma pedrada na cabeça do que no rim</i> 👍
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-  <a href="https://fluxer.gg/uHuHUyOJ">
-    <img src="./assets/fluxer-banner.svg" width="100%" alt="Divulgação oficial do Fluxer - clique para entrar na comunidade" />
-  </a>
-</div>
 
 <br>
 
