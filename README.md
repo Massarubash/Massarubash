@@ -4,6 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=D9D9D9&center=true&vCenter=true&width=760&height=50&lines=Opa+b%C3%A3o%3F+%F0%9F%91%8B;Dev+Full+Stack+%26+Game+Programmer;Co-Fundador+do+GennisCode;Ensinando+T.I.+de+gra%C3%A7a+pro+Brasil+inteiro;Estudante+de+ADS+com+orgulho+e+muito+suor;Eu+AMO+caf%C3%A9+%E2%98%95" alt="Typing SVG" /></a>
 
+
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
