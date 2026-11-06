@@ -87,8 +87,6 @@ Se você está olhando meu perfil, ou é um amigo meu desocupado, ou gostou do q
 
 <br><br>
 
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Massarubash&show_icons=true&hide_border=false&border_color=2a2a2e&bg_color=0a0a0b&title_color=f5f5f7&text_color=a1a1aa&icon_color=d4d4d8&ring_color=d4d4d8&border_radius=14" />
-<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Massarubash&layout=compact&hide_border=false&border_color=2a2a2e&bg_color=0a0a0b&title_color=f5f5f7&text_color=a1a1aa&border_radius=14" />
 
 </div>
 
