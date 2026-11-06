@@ -127,4 +127,6 @@ Quer conhecer um pouquinho mais sobre a gente e nossas propostas?<br>
 
 <p align="center"><code>Projeto ainda em desenvolvimento :]</code></p>
 
+<img width="1200" height="24" alt="Image" src="https://github.com/user-attachments/assets/9e105b36-b39b-41b6-b528-34b3ab82407a" />
+
 <img src="./assets/footer.svg" width="100%" alt="" />
