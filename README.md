@@ -13,17 +13,15 @@
 <img src="./assets/header-sobre.svg" width="100%" alt="Sobre mim" />
 
 <p align="center">
-<b>E aí, bão fi?</b> Aqui é o Gus, ou <b>Massaru</b>, como muitos conhecem. Se você chegou até aqui, que loucura, em: me achou no meio de tanta gente.<br>
-Sou estudante de <b>ADS</b> com muito orgulho e muito suor, atuo como <b>dev full stack web</b> e <b>game programmer</b>, e é incrível trabalhar nessa área. Viciante, só não é mais viciante que café. Eu <b>AMO</b> café. ☕
+<b>ᯤ 𝘌 𝘢𝘪́, 𝘣𝘢̃𝘰?</b> 𝘈𝘲𝘶𝘪 𝘦́ 𝘰 𝘎𝘶𝘴, 𝘰𝘶 <b>Massaru</b>, 𝘤𝘰𝘮𝘰 𝘮𝘶𝘪𝘵𝘰𝘴 𝘤𝘰𝘯𝘩𝘦𝘤𝘦𝘮. 𝘚𝘦 𝘷𝘰𝘤𝘦̂ 𝘤𝘩𝘦𝘨𝘰𝘶 𝘢𝘵𝘦́ 𝘢𝘲𝘶𝘪, 𝘲𝘶𝘦 𝘭𝘰𝘶𝘤𝘶𝘳𝘢, 𝘦𝘮: 𝘮𝘦 𝘢𝘤𝘩𝘰𝘶 𝘯𝘰 𝘮𝘦𝘪𝘰 𝘥𝘦 𝘵𝘢𝘯𝘵𝘢 𝘨𝘦𝘯𝘵𝘦. 𝘚𝘰𝘶 𝘦𝘴𝘵𝘶𝘥𝘢𝘯𝘵𝘦 𝘥𝘦 <b>ADS</b> 𝘤𝘰𝘮 𝘮𝘶𝘪𝘵𝘰 𝘰𝘳𝘨𝘶𝘭𝘩𝘰 𝘦 𝘦𝘴𝘧𝘰𝘳𝘤̧𝘰 𝘥𝘦𝘴𝘥𝘦 𝘥𝘦 𝘯𝘰𝘷𝘰, 𝘢𝘵𝘶𝘰 𝘤𝘰𝘮𝘰 <b>Dev full stack web</b> & <b>Game programmer</b>,𝘦 𝘦́ 𝘪𝘯𝘤𝘳𝘪́𝘷𝘦𝘭 𝘵𝘳𝘢𝘣𝘢𝘭𝘩𝘢𝘳 𝘯𝘦𝘴𝘴𝘢 𝘢́𝘳𝘦𝘢. 𝘝𝘪𝘤𝘪𝘢𝘯𝘵𝘦, 𝘴𝘰́ 𝘯𝘢̃𝘰 𝘦́ 𝘮𝘢𝘪𝘴 𝘷𝘪𝘤𝘪𝘢𝘯𝘵𝘦 𝘲𝘶𝘦 𝘤𝘢𝘧𝘦́. 𝘌𝘶 <b>AMO</b> café. ☕
 </p>
 
 <p align="center">
-Hoje sou <b>Co-Fundador do GennisCode</b> e <b>Fundador de uma comunidade brasileira 100% focada em ensinar T.I. sem custos para todo o Brasil</b>.<br>
-Também sou editor nas horas vagas (minha edição é bem <b>RUIM</b> e <b>DUVIDOSA</b>, mas sigo fazendo uns freelas por aí).
-</p>
+ᯤ 𝘈𝘵𝘶𝘢𝘭𝘮𝘦𝘯𝘵𝘦 𝘴𝘰𝘶 <b>Co-Fundador do GennisCode</b> & <b>𝘍𝘶𝘯𝘥𝘢𝘥𝘰𝘳 𝘥𝘦 𝘶𝘮𝘢 𝘤𝘰𝘮𝘶𝘯𝘪𝘥𝘢𝘥𝘦 𝘣𝘳𝘢𝘴𝘪𝘭𝘦𝘪𝘳𝘢 100% 𝘧𝘰𝘤𝘢𝘥𝘢 𝘦𝘮 𝘦𝘯𝘴𝘪𝘯𝘢𝘳 𝘛.𝘐. 𝘴𝘦𝘮 𝘤𝘶𝘴𝘵𝘰𝘴 𝘱𝘢𝘳𝘢 𝘵𝘰𝘥𝘰 𝘰 𝘉𝘳𝘢𝘴𝘪𝘭</b>. 𝘛𝘢𝘮𝘣𝘦́𝘮 𝘴𝘰𝘶 𝘦𝘥𝘪𝘵𝘰𝘳 𝘯𝘢𝘴 𝘩𝘰𝘳𝘢𝘴 𝘷𝘢𝘨𝘢𝘴 (𝘮𝘪𝘯𝘩𝘢 𝘦𝘥𝘪𝘤̧𝘢̃𝘰 𝘦́ 𝘣𝘦𝘮 <b>RUIM</b> 𝘦 <b>DUVIDOSA</b>, 𝗆𝖺𝗌 𝗌𝗂𝗀𝗈 𝖿𝖺𝗓𝖾𝗇𝖽𝗈 𝗎𝗇𝗌 𝖿𝗋𝖾𝖾𝗅𝖺𝗌 𝗉𝗈𝗋 𝖺𝗂́).
+</p> <br>
 
 <p align="center">
-Se você está olhando meu perfil, ou é um amigo meu desocupado, ou gostou do que viu e achou ele espalhado por aí.
+ᯤ 𝑺𝒆 𝒗𝒐𝒄𝒆̂ 𝒆𝒔𝒕𝒂́ 𝒐𝒍𝒉𝒂𝒏𝒅𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍, 𝒐𝒖 𝒆́ 𝒖𝒎 𝒂𝒎𝒊𝒈𝒐 𝒎𝒆𝒖 𝒅𝒆𝒔𝒐𝒄𝒖𝒑𝒂𝒅𝒐, 𝒐𝒖 𝒈𝒐𝒔𝒕𝒐𝒖 𝒅𝒐 𝒒𝒖𝒆 𝒗𝒊𝒖 𝒆 𝒂𝒄𝒉𝒐𝒖 𝒆𝒍𝒆 𝒆𝒔𝒑𝒂𝒍𝒉𝒂𝒅𝒐 𝒑𝒐𝒓 𝒂𝒊́. 𝑫𝒆 𝒒𝒖𝒂𝒍𝒒𝒖𝒆𝒓 𝒇𝒐𝒓𝒎𝒂 𝒐𝒃𝒓𝒊𝒈𝒂𝒅𝒐 𝒑𝒐𝒓 𝒆𝒔𝒕𝒂𝒓 𝒂𝒒𝒖𝒊! ദ്ദി˙∇˙)ว
 </p>
 
 <div align="center">
