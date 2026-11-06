@@ -1,12 +1,7 @@
-
-###
-
-<h5 data-importer="text" align="center"> ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄</h5>
-
-<img width="1200" height="420" alt="Image" src="https://github.com/user-attachments/assets/4b54e700-de98-4ef2-b0d6-016c39e3de8e" />
-
 <div align="center">
-  
+
+<img src="./assets/banner.svg" width="100%" alt="MASSARU - Dev Full Stack & Game Programmer" />
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=EE6A9F&center=true&vCenter=true&width=700&lines=Opa+b%C3%A3o%3F+%F0%9F%91%8B;Dev+Full+Stack+%26+Game+Programmer;Estudante+de+ADS+com+muito+orgulho+e+muito+suor;Co-Fundador+do+GennisCode;Eu+AMO+caf%C3%A9+%E2%98%95" alt="Typing SVG" /></a>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -28,8 +23,12 @@ Lembre-se: <i>beba água, melhor uma pedrada na cabeça do que no rim</i> 👍
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+<div align="center">
+  <img src="./assets/os-banner.svg" width="100%" alt="Multiplataforma: Linux, Windows e macOS" />
+</div>
+
 <h3 align="center">⟡ Stack ⟡</h3>
-<img width="1200" height="24" alt="Image" src="https://github.com/user-attachments/assets/9ce8c303-ef0c-4108-9d57-2b381a0cfabc" />
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/apache/D22128" height="48" alt="apache" />
   <img width="22" />
@@ -67,7 +66,6 @@ Lembre-se: <i>beba água, melhor uma pedrada na cabeça do que no rim</i> 👍
 </div>
 
 <br>
-<img width="1200" height="24" alt="Image" src="https://github.com/user-attachments/assets/9ce8c303-ef0c-4108-9d57-2b381a0cfabc" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -80,6 +78,14 @@ Lembre-se: <i>beba água, melhor uma pedrada na cabeça do que no rim</i> 👍
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+  <a href="https://fluxer.gg/uHuHUyOJ">
+    <img src="./assets/fluxer-banner.svg" width="100%" alt="Divulgação oficial do Fluxer - clique para entrar na comunidade" />
+  </a>
+</div>
+
+<br>
 
 <h3 align="center">🌆 GennisTeam 🌆</h3>
 
