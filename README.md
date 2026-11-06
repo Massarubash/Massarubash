@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="MASSARU - Dev Full Stack & Game Programmer" />
+<img width="1200" height="420" alt="Image" src="https://github.com/user-attachments/assets/aef2a0f7-656a-4fd6-9309-8115ed9839c8" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=EE6A9F&center=true&vCenter=true&width=700&lines=Opa+b%C3%A3o%3F+%F0%9F%91%8B;Dev+Full+Stack+%26+Game+Programmer;Estudante+de+ADS+com+muito+orgulho+e+muito+suor;Co-Fundador+do+GennisCode;Eu+AMO+caf%C3%A9+%E2%98%95" alt="Typing SVG" /></a>
 
@@ -21,11 +21,7 @@ Se você está aqui olhando meu perfil, provavelmente ou você é um amigo meu d
 Lembre-se: <i>beba água, melhor uma pedrada na cabeça do que no rim</i> 👍
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-  <img src="./assets/os-banner.svg" width="100%" alt="Multiplataforma: Linux, Windows e macOS" />
-</div>
 
 <h3 align="center">⟡ Stack ⟡</h3>
 
@@ -125,6 +121,11 @@ Nossa missão é direta e sem pausas: levar educação tecnológica gratuita e a
 Quer conhecer um pouquinho mais sobre a gente e nossas propostas?<br>
 <a href="https://gennis-code-stg7.vercel.app/"><img src="https://img.shields.io/badge/CONHEÇA_O_PROJETO-GennisCode-EE6A9F?style=for-the-badge&labelColor=1a1a30" alt="GennisCode" /></a>
 </p>
+
+div align="center">
+  <img src="./assets/os-banner.svg" width="100%" alt="Multiplataforma: Linux, Windows e macOS" />
+</div>
+
 
 <p align="center">
 <b>GennisCode</b> · <i>Aprenda, construa e compartilhe</i><br>
