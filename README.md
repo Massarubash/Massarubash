@@ -117,9 +117,7 @@ Quer conhecer um pouquinho mais sobre a gente e nossas propostas?<br>
 <a href="https://gennis-code-stg7.vercel.app/"><img src="https://img.shields.io/badge/CONHEÇA_O_PROJETO-GennisCode-EE6A9F?style=for-the-badge&labelColor=1a1a30" alt="GennisCode" /></a>
 </p>
 
-div align="center">
-  <img src="./assets/os-banner.svg" width="100%" alt="Multiplataforma: Linux, Windows e macOS" />
-</div>
+<img width="1200" height="340" alt="Image" src="https://github.com/user-attachments/assets/e59f831e-cd73-45e1-a0f4-ef06f941787c" />
 
 
 <p align="center">
