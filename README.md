@@ -29,7 +29,7 @@ Lembre-se: <i>beba água, melhor uma pedrada na cabeça do que no rim</i> 👍
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <h3 align="center">⟡ Stack ⟡</h3>
-
+<img width="1200" height="24" alt="Image" src="https://github.com/user-attachments/assets/9ce8c303-ef0c-4108-9d57-2b381a0cfabc" />
 <div align="center">
   <img src="https://cdn.simpleicons.org/apache/D22128" height="48" alt="apache" />
   <img width="22" />
@@ -67,6 +67,7 @@ Lembre-se: <i>beba água, melhor uma pedrada na cabeça do que no rim</i> 👍
 </div>
 
 <br>
+<img width="1200" height="24" alt="Image" src="https://github.com/user-attachments/assets/9ce8c303-ef0c-4108-9d57-2b381a0cfabc" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
