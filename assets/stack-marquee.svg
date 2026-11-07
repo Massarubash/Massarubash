@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64">
+<defs>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#000"/><stop offset="0.1" stop-color="#fff"/><stop offset="0.9" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
+<mask id="m"><rect width="1200" height="64" fill="url(#fade)"/></mask>
+</defs>
+<rect width="1200" height="64" rx="10" fill="#0a0a0a"/>
+<g mask="url(#m)">
+<g>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-2600 0" dur="38s" repeatCount="indefinite"/>
+<text x="0" y="39" font-size="18" font-weight="700" fill="#bdbdbd" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace" textLength="2600" lengthAdjust="spacing" xml:space="preserve">NESTJS   ·   CODEIGNITER   ·   METEOR   ·   JAVASCRIPT   ·   HTML5   ·   CSS3   ·   POSTGRESQL   ·   PYTHON   ·   C++   ·   UNREAL ENGINE   ·   BLENDER   ·   PHOTOSHOP   ·   LINUX   ·   DEBIAN   ·   UBUNTU   ·   APACHE   ·   VS CODE   ·   </text>
+<text x="2600" y="39" font-size="18" font-weight="700" fill="#bdbdbd" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,monospace" textLength="2600" lengthAdjust="spacing" xml:space="preserve">NESTJS   ·   CODEIGNITER   ·   METEOR   ·   JAVASCRIPT   ·   HTML5   ·   CSS3   ·   POSTGRESQL   ·   PYTHON   ·   C++   ·   UNREAL ENGINE   ·   BLENDER   ·   PHOTOSHOP   ·   LINUX   ·   DEBIAN   ·   UBUNTU   ·   APACHE   ·   VS CODE   ·   </text>
+</g>
+</g>
+</svg>
