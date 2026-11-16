@@ -2,7 +2,7 @@
 
 <img width="1956" height="804" alt="Graffiti vibrante MASSARU em fundo branco" src="https://github.com/user-attachments/assets/e9eb4630-a2bb-4e85-b677-526418f1c22a" />
 
-<img width="2172" height="724" alt="Tipografia Graffiti para Criadores Digitais" src="https://github.com/user-attachments/assets/d3340d6d-9dbc-4470-be1d-0997a4d10b4f" />
+<img width="1600" height="300" alt="Tagline_saltando" src="https://github.com/user-attachments/assets/9112f2b2-aeb7-4303-b88c-632c3e804542" />
 
 <img src="assets/dividers/divider-01-spray-stroke.svg" alt="Traço de spray vermelho com respingos e tinta escorrendo" width="100%">
 
