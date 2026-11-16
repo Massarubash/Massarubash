@@ -2,12 +2,12 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/banners/banner-01-massaru.svg">
-  <img src="assets/animations/massaru-painting.gif" alt="MASSARU pintado em graffiti vermelho, com letras bolha numa parede escura, spray, contornos, preenchimento e tinta escorrendo" width="100%">
+  <img src="assets/animations/massaru-painting.gif" alt="MASSARU pintado em graffiti de rua: letras vermelhas tortas com bloco 3D numa parede de concreto, com tinta escorrendo, lambe-lambe rasgado e pichação" width="100%">
 </picture>
 
-<img src="assets/animations/tagline.svg" alt="Dev, artista, programador de jogos e criador" width="100%">
+<img src="assets/animations/tagline.svg" alt="Dev Full-Stack, artista digital, programador de jogos e criador de conteúdo" width="100%">
 
-<img src="assets/dividers/divider-01-spray-stroke.svg" alt="Traço de spray vermelho com tinta escorrendo" width="100%">
+<img src="assets/dividers/divider-01-spray-stroke.svg" alt="Traço de spray vermelho com respingos e tinta escorrendo" width="100%">
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="assets/banners/banner-02-about-me.svg" alt="SOBRE MIM em letras de graffiti amarelas, ao lado de uma mão pintada a spray e de uma lata de tinta" width="100%">
+<img src="assets/banners/banner-02-about-me.svg" alt="SOBRE MIM em letras de rua amarelas com contorno azul sobre um fundo magenta, ao lado de uma mão em estêncil" width="100%">
 
 </div>
 
@@ -38,7 +38,13 @@ Fica por aqui, quebra umas coisas comigo e bora criar algo barulhento e colorido
 
 <div align="center">
 
-<img src="assets/dividers/divider-05-shards.svg" alt="Estilhaços de graffiti roxos, magenta e vermelhos sobrepostos" width="100%">
+<img src="assets/banners/art-01-pixo.svg" alt="Pichação abstrata sem texto: barras altas e inclinadas em branco, amarelo e vermelho sobre concreto" width="100%">
+
+</div>
+
+<div align="center">
+
+<img src="assets/dividers/divider-05-shards.svg" alt="Setas wildstyle angulares entrelaçadas com bloco 3D" width="100%">
 
 </div>
 
@@ -46,7 +52,7 @@ Fica por aqui, quebra umas coisas comigo e bora criar algo barulhento e colorido
 
 <div align="center">
 
-<img src="assets/headers/header-personal-info.svg" alt="INFO PESSOAL em letras de graffiti brancas com sombra magenta" width="100%">
+<img src="assets/headers/header-personal-info.svg" alt="INFO PESSOAL em letras de rua brancas sobre um campo carmesim" width="100%">
 
 </div>
 
@@ -83,7 +89,7 @@ Fica por aqui, quebra umas coisas comigo e bora criar algo barulhento e colorido
 
 <div align="center">
 
-<img src="assets/dividers/divider-02-torn-paper.svg" alt="Faixa de papel branco rasgado sobre magenta com respingos vermelhos" width="100%">
+<img src="assets/dividers/divider-02-torn-paper.svg" alt="Faixa de lambe-lambe rasgado com meio-tom e tinta vermelha" width="100%">
 
 </div>
 
@@ -91,7 +97,7 @@ Fica por aqui, quebra umas coisas comigo e bora criar algo barulhento e colorido
 
 <div align="center">
 
-<img src="assets/banners/banner-03-my-skills.svg" alt="HABILIDADES em letras de graffiti brancas, com uma janela de código, um controle de videogame e colchetes de código" width="100%">
+<img src="assets/banners/banner-03-my-skills.svg" alt="HABILIDADES em letras de rua brancas sobre campos azul e roxo, com setas wildstyle e marcas de código" width="100%">
 
 </div>
 
@@ -147,7 +153,7 @@ Fica por aqui, quebra umas coisas comigo e bora criar algo barulhento e colorido
 
 <div align="center">
 
-<img src="assets/dividers/divider-03-scribble-loops.svg" alt="Rabiscos amarelos desenhados à mão com zigue-zague azul" width="100%">
+<img src="assets/dividers/divider-03-scribble-loops.svg" alt="Rabisco cursivo amarelo com laços e zigue-zague azul" width="100%">
 
 </div>
 
@@ -155,18 +161,24 @@ Fica por aqui, quebra umas coisas comigo e bora criar algo barulhento e colorido
 
 <div align="center">
 
-<img src="assets/headers/header-dev-interests.svg" alt="INTERESSES DEV em letras de graffiti amarelas com sombra azul" width="100%">
+<img src="assets/headers/header-dev-interests.svg" alt="INTERESSES DEV em letras de rua amarelas sobre um campo roxo" width="100%">
 
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><img src="assets/illustrations/interest-games.svg" alt="Card JOGOS com um controle de videogame magenta" width="100%"><br><sub>Jogar, criar e quebrar.</sub></td>
-    <td align="center" width="25%"><img src="assets/illustrations/interest-web.svg" alt="Card WEB com uma janela de código" width="100%"><br><sub>Full stack, da página ao banco de dados.</sub></td>
-    <td align="center" width="25%"><img src="assets/illustrations/interest-art.svg" alt="Card ARTE com uma lata de spray e uma mão pintada" width="100%"><br><sub>Arte digital, design e um pouco de caos.</sub></td>
-    <td align="center" width="25%"><img src="assets/illustrations/interest-linux.svg" alt="Card LINUX com uma janela de terminal" width="100%"><br><sub>Amigo do terminal. Debian, Ubuntu, Apache.</sub></td>
+    <td align="center" width="25%"><img src="assets/illustrations/interest-games.svg" alt="Card JOGOS com um controle de videogame em estêncil" width="100%"><br><sub>Jogar, criar e quebrar.</sub></td>
+    <td align="center" width="25%"><img src="assets/illustrations/interest-web.svg" alt="Card WEB com os símbolos de código pintados a spray" width="100%"><br><sub>Full stack, da página ao banco de dados.</sub></td>
+    <td align="center" width="25%"><img src="assets/illustrations/interest-art.svg" alt="Card ARTE com uma mão em estêncil e pichação" width="100%"><br><sub>Arte digital, design e um pouco de caos.</sub></td>
+    <td align="center" width="25%"><img src="assets/illustrations/interest-linux.svg" alt="Card LINUX com o prompt do terminal pintado a spray" width="100%"><br><sub>Amigo do terminal. Debian, Ubuntu, Apache.</sub></td>
   </tr>
 </table>
+
+<div align="center">
+
+<img src="assets/banners/art-02-wildstyle.svg" alt="Wildstyle sem texto: estilhaços angulares e setas entrelaçadas com bloco 3D em azul, branco, vermelho, amarelo e roxo" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -187,7 +199,7 @@ Fica por aqui, quebra umas coisas comigo e bora criar algo barulhento e colorido
 <div align="center">
 
 <!-- ✏️ Link do Instagram: mude o href abaixo se o perfil mudar -->
-<a href="https://instagram.com/massdvv_"><img src="assets/banners/banner-04-instagram.svg" alt="INSTAGRAM em letras de graffiti magenta, com um ícone estilo Instagram e o perfil @massdvv_" width="100%"></a>
+<a href="https://instagram.com/massdvv_"><img src="assets/banners/banner-04-instagram.svg" alt="ME SIGA NO INSTAGRAM E NA TWITCH, acompanhe minhas lives esquisitas, com ícones em estêncil e os perfis @massdvv_ e @massadv_" width="100%"></a>
 
 <p>
   <a href="https://instagram.com/massdvv_"><img src="assets/social/button-instagram.svg" alt="Instagram @massdvv_" height="64"></a>
@@ -203,12 +215,18 @@ Fica por aqui, quebra umas coisas comigo e bora criar algo barulhento e colorido
 
 <div align="center">
 
-<img src="assets/dividers/divider-07-tag-stars.svg" alt="Linha de giz com uma estrela amarela e pequenas marcas desenhadas à mão" width="100%">
+<img src="assets/banners/art-03-tag.svg" alt="Tag sem texto: rabisco cursivo amarelo largo sobre um fundo magenta com respingos azuis e roxos" width="100%">
 
-<img src="assets/animations/spray-reveal.svg" alt="Uma lata de spray percorre a tela pintando um traço magenta" width="100%">
+</div>
 
-<img src="assets/headers/header-signature.svg" alt="Assinatura MASSARU em letras bolha vermelhas: seja criativo, seja intenso" width="100%">
+<div align="center">
 
-<img src="assets/backgrounds/footer-wall.svg" alt="Parede de tijolos escura com spray, tinta escorrendo e a tag MASSARU" width="100%">
+<img src="assets/dividers/divider-07-tag-stars.svg" alt="Linhas de giz com uma coroa amarela e pequenas marcas de rua" width="100%">
+
+<img src="assets/animations/spray-reveal.svg" alt="Uma nuvem de spray percorre a tela pintando um traço magenta" width="100%">
+
+<img src="assets/headers/header-signature.svg" alt="Assinatura de rua em rabisco branco e vermelho: seja criativo, seja intenso" width="100%">
+
+<img src="assets/backgrounds/footer-wall.svg" alt="Parede de concreto com pichação, spray, tinta escorrendo e a tag arte, código, jogos" width="100%">
 
 </div>
