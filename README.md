@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1956" height="804" alt="Graffiti vibrante MASSARU em fundo branco" src="https://github.com/user-attachments/assets/e9eb4630-a2bb-4e85-b677-526418f1c22a" />
+<img width="1600" height="540" alt="MASSARU_banner_animado (1)" src="https://github.com/user-attachments/assets/0e52f2de-13e6-47ad-8ad6-4864843e9574" />
 
 <img width="1600" height="300" alt="Tagline_saltando" src="https://github.com/user-attachments/assets/9112f2b2-aeb7-4303-b88c-632c3e804542" />
 
