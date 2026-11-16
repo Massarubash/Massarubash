@@ -1,4 +1,0 @@
-pillow
-numpy
-# optional, only for tools/preview-assets.py:
-# playwright
