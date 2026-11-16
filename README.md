@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banners/banner-01-massaru.svg">
-  <img src="assets/animations/massaru-painting.gif" alt="MASSARU pintado em graffiti de rua: letras vermelhas tortas com bloco 3D numa parede de concreto, com tinta escorrendo, lambe-lambe rasgado e pichação" width="100%">
-</picture>
+<img width="1956" height="804" alt="Graffiti vibrante MASSARU em fundo branco" src="https://github.com/user-attachments/assets/e9eb4630-a2bb-4e85-b677-526418f1c22a" />
 
 <img src="assets/animations/tagline.svg" alt="Dev Full-Stack, artista digital, programador de jogos e criador de conteúdo" width="100%">
 
