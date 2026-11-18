@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="assets/banners/banner-02-about-me.svg" alt="SOBRE MIM em letras de rua amarelas com contorno azul sobre um fundo magenta, ao lado de uma mão em estêncil" width="100%">
+<img width="1600" height="540" alt="Sobre_Mim_banner_branco_cinza" src="https://github.com/user-attachments/assets/1a3912dc-0d02-461b-98df-34a0056c7707" />
 
 </div>
 
