@@ -82,20 +82,16 @@
 
 <!-- ═════════════════════ ASSINATURA ═════════════════════ -->
 
+<img width="2173" height="724" alt="Corrente Metálica Espinhosa em Preto e Branco" src="https://github.com/user-attachments/assets/ecf140f5-9adf-4f46-b80a-e6a10fe6a344" />
+
 <div align="center">
 
-<img src="assets/banners/art-03-tag.svg" alt="Tag sem texto: rabisco cursivo amarelo largo sobre um fundo magenta com respingos azuis e roxos" width="100%">
+<img width="1146" height="438" alt="Galeria em Tipografia Pontilhada Luminosa" src="https://github.com/user-attachments/assets/1168f2f0-1af5-41ee-a0b8-29bcf5c2f708" />
 
 </div>
 
 <div align="center">
 
-<img src="assets/dividers/divider-07-tag-stars.svg" alt="Linhas de giz com uma coroa amarela e pequenas marcas de rua" width="100%">
-
-<img src="assets/animations/spray-reveal.svg" alt="Uma nuvem de spray percorre a tela pintando um traço magenta" width="100%">
-
-<img src="assets/headers/header-signature.svg" alt="Assinatura de rua em rabisco branco e vermelho: seja criativo, seja intenso" width="100%">
-
-<img src="assets/backgrounds/footer-wall.svg" alt="Parede de concreto com pichação, spray, tinta escorrendo e a tag arte, código, jogos" width="100%">
+<img width="736" height="414" alt="_ (7)" src="https://github.com/user-attachments/assets/433c1a8e-9f8c-4103-a4b9-96f69bf059c0" />
 
 </div>
