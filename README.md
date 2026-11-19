@@ -14,6 +14,8 @@
 
 <img width="1600" height="540" alt="Sobre_Mim_banner_branco_cinza" src="https://github.com/user-attachments/assets/1a3912dc-0d02-461b-98df-34a0056c7707" />
 
+<img width="2173" height="724" alt="Corrente Metálica Espinhosa em Preto e Branco" src="https://github.com/user-attachments/assets/686d6aa9-5fc9-411a-a5cd-cecc8b8f2d3a" />
+
 </div>
 
 <p align="center">
@@ -31,6 +33,7 @@
 | Quando não estou ensinando e estudando T.I, provavelmente estou dormindo <b>MUITO</b> ou criando conteúdo esquisito pra vocês na <b> Roxinha (Twitch) e no Youtobas</b>. ˙𐃷˙
 </p>
 
+<img width="2173" height="724" alt="Corrente Metálica Espinhosa em Preto e Branco" src="https://github.com/user-attachments/assets/686d6aa9-5fc9-411a-a5cd-cecc8b8f2d3a" />
 
 <!-- ✏️ EDITE: adicione mais sobre você aqui (curiosidades, jogos favoritos, no que você está trabalhando...) -->
 
