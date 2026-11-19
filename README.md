@@ -48,9 +48,13 @@
 
 <!-- ✏️ EDITE: esta é uma lista de ferramentas com as quais eu trabalho, não um gráfico de nível. Para adicionar ou remover etiquetas, edite a lista TECH em tools/generate-icons.py. -->
 
-<table align="center">
+<div align="center">
   
- <img width="1760" height="288" alt="icones-branco-fundo-preto" src="https://github.com/user-attachments/assets/aa8af7c1-0286-4bbd-b7eb-983eb94c0529" />
+<img width="500" height="69" alt="icones2-branco" src="https://github.com/user-attachments/assets/2884acc0-5bdd-4d2f-a760-dd1dee1257f5" />
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+
+<img width="439" height="60" alt="icones3-branco" src="https://github.com/user-attachments/assets/7cc9da1e-c6e1-4574-8d23-8195309e7870" />
  
 <div align="center">
 
