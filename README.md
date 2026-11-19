@@ -92,6 +92,20 @@
 
 <div align="center">
 
-<img width="736" height="414" alt="_ (7)" src="https://github.com/user-attachments/assets/433c1a8e-9f8c-4103-a4b9-96f69bf059c0" />
+═════════════════════════════════════════════════════════════════════════════════════════
+
+<img width="2172" height="724" alt="È os Guris da T I★" src="https://github.com/user-attachments/assets/29835680-9997-42cb-8867-7f86d640679c" />
+
+═════════════════════════════════════════════════════════════════════════════════════════
+
+<img width="1230" height="1278" alt="Logo #ADS em Branco Distorcido" src="https://github.com/user-attachments/assets/5bb2494a-3f91-43c5-996d-cc0d0aacff7e" />
+
+═════════════════════════════════════════════════════════════════════════════════════════
+
+<img width="736" height="736" alt="_ (14)" src="https://github.com/user-attachments/assets/6b67cfbb-1f06-4c12-a681-786b2d5a87b9" />
+
+═════════════════════════════════════════════════════════════════════════════════════════
+
+<img width="2172" height="724" alt="Aviso de Restrição Anti-Resenha" src="https://github.com/user-attachments/assets/b755ac8b-420c-4433-9563-37bc2e2a7be9" />
 
 </div>
