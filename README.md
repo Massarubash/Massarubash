@@ -1,6 +1,5 @@
 <div align="center">
-  
-<img width="936" height="392" alt="_ (4)" src="https://github.com/user-attachments/assets/a0918dea-f060-4ae1-a417-e88067644050" />
+
 <img width="1600" height="540" alt="MASSARU_banner_branco_cinza" src="https://github.com/user-attachments/assets/7e279608-800e-4c52-b4b2-670fd8a05d66" />
 
 <img width="1600" height="300" alt="Tagline_saltando" src="https://github.com/user-attachments/assets/9112f2b2-aeb7-4303-b88c-632c3e804542" />
@@ -110,3 +109,6 @@
 <img width="2172" height="724" alt="Aviso de Restrição Anti-Resenha" src="https://github.com/user-attachments/assets/b755ac8b-420c-4433-9563-37bc2e2a7be9" />
 
 </div>
+
+<img width="1200" height="90" alt="divider-01-spray-stroke-branco-fundo-preto" src="https://github.com/user-attachments/assets/f09de493-ba9f-4b51-ba31-25cb2b9e8eaa" />
+
