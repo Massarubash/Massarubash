@@ -72,7 +72,7 @@
 
 <p>
  <img width="314" height="78" alt="button-twitch" src="https://github.com/user-attachments/assets/1d9ba223-ac56-4140-b211-46bd7fc3e26d" />
-  <a href="https://twitch.tv/massadv_"><img src="assets/social/button-twitch.svg" alt="Twitch @massadv_" height="64"></a>
+ <img width="320" height="78" alt="button-instagram" src="https://github.com/user-attachments/assets/1921eea8-d845-410c-9445-2c194af9a8bf" />
   <!-- ✏️ Outras plataformas: copie uma linha acima e troque o link. Exemplo de botão:
   <a href="https://exemplo.com/voce"><img src="assets/social/button-more.svg" alt="Mais plataformas" height="64"></a>
   -->
