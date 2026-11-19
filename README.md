@@ -59,56 +59,19 @@
 <div align="center">
 
 
-<img src="assets/dividers/divider-03-scribble-loops.svg" alt="Rabisco cursivo amarelo com laços e zigue-zague azul" width="100%">
-
-</div>
-
-<!-- ═════════════════════ INTERESSES EM DESENVOLVIMENTO ═════════════════════ -->
-
-<div align="center">
-
-<img src="assets/headers/header-dev-interests.svg" alt="INTERESSES DEV em letras de rua amarelas sobre um campo roxo" width="100%">
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><img src="assets/illustrations/interest-games.svg" alt="Card JOGOS com um controle de videogame em estêncil" width="100%"><br><sub>Jogar, criar e quebrar.</sub></td>
-    <td align="center" width="25%"><img src="assets/illustrations/interest-web.svg" alt="Card WEB com os símbolos de código pintados a spray" width="100%"><br><sub>Full stack, da página ao banco de dados.</sub></td>
-    <td align="center" width="25%"><img src="assets/illustrations/interest-art.svg" alt="Card ARTE com uma mão em estêncil e pichação" width="100%"><br><sub>Arte digital, design e um pouco de caos.</sub></td>
-    <td align="center" width="25%"><img src="assets/illustrations/interest-linux.svg" alt="Card LINUX com o prompt do terminal pintado a spray" width="100%"><br><sub>Amigo do terminal. Debian, Ubuntu, Apache.</sub></td>
-  </tr>
-</table>
-
-<div align="center">
-
-<img src="assets/banners/art-02-wildstyle.svg" alt="Wildstyle sem texto: estilhaços angulares e setas entrelaçadas com bloco 3D em azul, branco, vermelho, amarelo e roxo" width="100%">
-
-</div>
-
-<div align="center">
-
-<img src="assets/dividers/divider-06-hazard-tape.svg" alt="Fita de alerta amarela e preta com respingos vermelhos e magenta" width="100%">
-
-</div>
-
-<div align="center">
-
-<img src="assets/animations/drip-loop.svg" alt="Tinta vermelha, magenta e roxa escorrendo em loop" width="100%">
-
-<img src="assets/dividers/divider-04-drip-bar.svg" alt="Barra de tinta vermelha com gotas escorrendo" width="100%">
-
 </div>
 
 <!-- ═════════════════════ INSTAGRAM E REDES SOCIAIS ═════════════════════ -->
 
 <div align="center">
 
+<img width="2172" height="724" alt="Emblema Tribal Branco Espinhoso" src="https://github.com/user-attachments/assets/d5209d9e-e9e7-4917-92f9-662ca952914d" />
+
 <!-- ✏️ Link do Instagram: mude o href abaixo se o perfil mudar -->
-<a href="https://instagram.com/massdvv_"><img src="assets/banners/banner-04-instagram.svg" alt="ME SIGA NO INSTAGRAM E NA TWITCH, acompanhe minhas lives esquisitas, com ícones em estêncil e os perfis @massdvv_ e @massadv_" width="100%"></a>
+<img width="2172" height="724" alt="Redes_Sociais_animado" src="https://github.com/user-attachments/assets/ee6e6fa0-d8f1-4aad-b4cc-9685ca7b2027" />
 
 <p>
-  <a href="https://instagram.com/massdvv_"><img src="assets/social/button-instagram.svg" alt="Instagram @massdvv_" height="64"></a>
+ <img width="314" height="78" alt="button-twitch" src="https://github.com/user-attachments/assets/1d9ba223-ac56-4140-b211-46bd7fc3e26d" />
   <a href="https://twitch.tv/massadv_"><img src="assets/social/button-twitch.svg" alt="Twitch @massadv_" height="64"></a>
   <!-- ✏️ Outras plataformas: copie uma linha acima e troque o link. Exemplo de botão:
   <a href="https://exemplo.com/voce"><img src="assets/social/button-more.svg" alt="Mais plataformas" height="64"></a>
