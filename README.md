@@ -88,6 +88,9 @@
 
 <img width="1146" height="438" alt="Galeria em Tipografia Pontilhada Luminosa" src="https://github.com/user-attachments/assets/1168f2f0-1af5-41ee-a0b8-29bcf5c2f708" />
 
+<img width="2173" height="724" alt="Corrente Metálica Espinhosa em Preto e Branco" src="https://github.com/user-attachments/assets/ecf140f5-9adf-4f46-b80a-e6a10fe6a344" />
+
+
 </div>
 
 <div align="center">
