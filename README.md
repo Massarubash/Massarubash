@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="assets/banners/banner-03-my-skills.svg" alt="HABILIDADES em letras de rua brancas sobre campos azul e roxo, com setas wildstyle e marcas de código" width="100%">
+<img width="1600" height="540" alt="Habilidades_Techs_banner_animado" src="https://github.com/user-attachments/assets/6ba98776-50be-4caf-8522-f8c1e4127484" />
 
 </div>
 
