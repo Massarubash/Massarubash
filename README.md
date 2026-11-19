@@ -36,52 +36,7 @@
 
 <img src="assets/dividers/divider-05-shards.svg" alt="Setas wildstyle angulares entrelaçadas com bloco 3D" width="100%">
 
-</div>
 
-<!-- ═════════════════════ INFORMAÇÕES PESSOAIS ═════════════════════ -->
-
-<div align="center">
-
-<img src="assets/headers/header-personal-info.svg" alt="INFO PESSOAL em letras de rua brancas sobre um campo carmesim" width="100%">
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="right"><img src="assets/icons/label-name.svg" alt="Nome" height="52"></td>
-    <td><b>Massaru</b> <!-- ✏️ adicione seu nome real ou outros apelidos --></td>
-  </tr>
-  <tr>
-    <td align="right"><img src="assets/icons/label-studying.svg" alt="Estudando" height="52"></td>
-    <td>Análise e Desenvolvimento de Sistemas (ADS)</td>
-  </tr>
-  <tr>
-    <td align="right"><img src="assets/icons/label-focus.svg" alt="Foco" height="52"></td>
-    <td>Desenvolvimento Web Full Stack · Programação de Jogos</td>
-  </tr>
-  <tr>
-    <td align="right"><img src="assets/icons/label-activities.svg" alt="Atividades" height="52"></td>
-    <td>Programar · arte digital · criação de conteúdo na Twitch</td>
-  </tr>
-  <tr>
-    <td align="right"><img src="assets/icons/label-creative.svg" alt="Interesses criativos" height="52"></td>
-    <td>Arte digital · design · jogos <!-- ✏️ adicione mais interesses criativos --></td>
-  </tr>
-  <tr>
-    <td align="right"><img src="assets/icons/label-goals.svg" alt="Metas" height="52"></td>
-    <td><i>✏️ Suas metas entram aqui.</i></td>
-  </tr>
-  <tr>
-    <td align="right"><img src="assets/icons/label-learning.svg" alt="Aprendendo agora" height="52"></td>
-    <td><i>✏️ O que você está aprendendo agora entra aqui.</i></td>
-  </tr>
-</table>
-
-<div align="center">
-
-<img src="assets/dividers/divider-02-torn-paper.svg" alt="Faixa de lambe-lambe rasgado com meio-tom e tinta vermelha" width="100%">
-
-</div>
 
 <!-- ═════════════════════ HABILIDADES / TECH STACK ═════════════════════ -->
 
@@ -94,54 +49,11 @@
 <!-- ✏️ EDITE: esta é uma lista de ferramentas com as quais eu trabalho, não um gráfico de nível. Para adicionar ou remover etiquetas, edite a lista TECH em tools/generate-icons.py. -->
 
 <table align="center">
-  <tr>
-    <td align="right"><b>Back-end e frameworks</b></td>
-    <td>
-      <img src="assets/icons/tech-nestjs.svg" alt="NestJS" height="40">
-      <img src="assets/icons/tech-codeigniter.svg" alt="CodeIgniter" height="40">
-      <img src="assets/icons/tech-meteor.svg" alt="Meteor" height="40">
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Front-end</b></td>
-    <td>
-      <img src="assets/icons/tech-javascript.svg" alt="JavaScript" height="40">
-      <img src="assets/icons/tech-html5.svg" alt="HTML5" height="40">
-      <img src="assets/icons/tech-css3.svg" alt="CSS3" height="40">
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Banco de dados</b></td>
-    <td><img src="assets/icons/tech-postgresql.svg" alt="PostgreSQL" height="40"></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Linguagens</b></td>
-    <td>
-      <img src="assets/icons/tech-python.svg" alt="Python" height="40">
-      <img src="assets/icons/tech-cpp.svg" alt="C++" height="40">
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Games e arte</b></td>
-    <td>
-      <img src="assets/icons/tech-unreal-engine.svg" alt="Unreal Engine" height="40">
-      <img src="assets/icons/tech-blender.svg" alt="Blender" height="40">
-      <img src="assets/icons/tech-photoshop.svg" alt="Photoshop" height="40">
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Sistemas e ferramentas</b></td>
-    <td>
-      <img src="assets/icons/tech-linux.svg" alt="Linux" height="40">
-      <img src="assets/icons/tech-debian.svg" alt="Debian" height="40">
-      <img src="assets/icons/tech-ubuntu.svg" alt="Ubuntu" height="40">
-      <img src="assets/icons/tech-apache.svg" alt="Apache" height="40">
-      <img src="assets/icons/tech-vscode.svg" alt="VS Code" height="40">
-    </td>
-  </tr>
-</table>
-
+  
+ <img width="1760" height="288" alt="icones-branco-fundo-preto" src="https://github.com/user-attachments/assets/aa8af7c1-0286-4bbd-b7eb-983eb94c0529" />
+ 
 <div align="center">
+
 
 <img src="assets/dividers/divider-03-scribble-loops.svg" alt="Rabisco cursivo amarelo com laços e zigue-zague azul" width="100%">
 
